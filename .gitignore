@@ -11,3 +11,6 @@ vite.config.ts.timestamp-*
 /static/Hello.js
 /static/Hello.wasm
 *.swp
+/src/routes/Hello.js
+/src/routes/Hello.wasm
+/src/routes/Hello.d.ts
